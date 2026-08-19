@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:2c5364,50:00c6ff,75:2c5364,100:0f2027&height=280&section=header&text=Hey%2C%20I'm%20Sandesh%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Electrical%20Engineer%20%C2%B7%20IoT%20Builder%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=B.Tech+in+Electrical+%26+Electronics+Engineering;Solar+PV+%7C+IIoT+%7C+MERN+Stack+Developer;Turning+Circuits+and+Code+into+Real+Solutions;Combat+Robots+by+Night%2C+Clean+Energy+by+Day+%E2%9A%A1;Always+Learning+%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=190&lines=B.Tech+in+Electrical+%26+Electronics+Engineering;Solar+PV+%7C+IIoT+%7C+MERN+Stack+Developer;Turning+Circuits+and+Code+into+Real+Solutions;Combat+Robots+by+Night%2C+Clean+Energy+by+Day+%E2%9A%A1;Always+Learning+%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -105,11 +105,11 @@ Data Analysis & Visualization
 
 <div align="center">
 
-<a href="https://github.com/sandeshnepal106"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeshnepal106&repo=mighty-mouse&theme=tokyonight&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/></a>
-<a href="https://github.com/sandeshnepal106"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeshnepal106&repo=iiot-predictive-maintenance&theme=tokyonight&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/></a>
+<a href="https://github.com/sandeshnepal106/Mighty-Mouse"><img width="48%" alt="Mighty-Mouse Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeshnepal106&repo=Mighty-Mouse&theme=tokyonight&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/></a>
+<a href="https://github.com/sandeshnepal106/IoT-Based-Environmental-Monitoring-System"><img width="48%" alt="IoT-Based-Environmental-Monitoring-System Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeshnepal106&repo=IoT-Based-Environmental-Monitoring-System&theme=tokyonight&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/></a>
+<a href="https://github.com/sandeshnepal106/Online-Voting-System"><img width="48%" alt="Online-Voting-System Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeshnepal106&repo=Online-Voting-System&theme=tokyonight&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/></a>
+<a href="https://github.com/sandeshnepal106/quiz-app"><img width="48%" alt="quiz-app Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeshnepal106&repo=quiz-app&theme=tokyonight&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/></a>
 
-<a href="https://github.com/sandeshnepal106"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeshnepal106&repo=studysphere-lms&theme=tokyonight&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/></a>
-<a href="https://github.com/sandeshnepal106"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeshnepal106&repo=taskflow&theme=tokyonight&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/></a>
 
 </div>
 
@@ -239,13 +239,13 @@ Data Analysis & Visualization
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🏆 Trophies & Achievements
+<!-- ## 🏆 Trophies & Achievements
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sandeshnepal106&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> -->
 
 ## 🌌 Skyline (3D Contribution Landscape)
 
@@ -254,8 +254,6 @@ Data Analysis & Visualization
 <img src="https://gitcity.natrajx.in/api/svg?username=sandeshnepal106" width="100%" alt="3D contribution skyline"/>
 
 </div>
-
-🏙️ 3D visualization of your GitHub contribution history, generated from your public contribution activity.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
